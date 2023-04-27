@@ -35,13 +35,16 @@ This chart shows a drastic increase in the sum of sales from the year 2013 to 20
 
 This chart shows that product Paseo has the highest percentage of distribution 
 
+
 ![Screenshot 2023-04-27 235533](https://user-images.githubusercontent.com/80110291/235011507-b8fae017-3f0e-498d-a1a2-f3c0cbf5b3db.png)
 
 From this chart, we can see that 2014 was the year with the highest number of units sold.
 
+
 ![Screenshot 2023-04-27 234053](https://user-images.githubusercontent.com/80110291/235011677-c3523d5e-8167-43a5-8806-e45370183723.png)
 
 2014 was also the year with the highest number of discounts
+
 
 ![Screenshot 2023-04-27 234250](https://user-images.githubusercontent.com/80110291/235011770-a8476305-d55a-4c81-a99b-0d10b344bd80.png)
 
